@@ -77,13 +77,6 @@
         "purpose": "Active"
     },
     {
-        "next_date": "2026-11-13",
-        "number": "Special Cases 92/2025",
-        "title": "State / ANF V/S Sanaullah & Ors",
-        "court": "Special CNS Courts (Clifton)",
-        "purpose": "Active"
-    },
-    {
         "next_date": "2026-10-29",
         "number": "Civil Suit No. 396/2022",
         "title": "Saifullah V/S Province of Sindh",
@@ -149,20 +142,6 @@
     },
     {
         "next_date": "2026-11-02",
-        "number": "Spl Cases 107/2024",
-        "title": "State V/S Zarwali Khan & Ors",
-        "court": "Special CNS Courts (Clifton)",
-        "purpose": "evi & hearing"
-    },
-    {
-        "next_date": "2026-11-02",
-        "number": "PPC 4060/2023",
-        "title": "Mst. Sumaya Tariq V/S Waqar Ali Shah",
-        "court": "District South (Sessions/Civil)",
-        "purpose": "Active"
-    },
-    {
-        "next_date": "2026-11-02",
         "number": "Civil Suit 8680/2025",
         "title": "Jan M. V/S Moazzam Jan & NADRA",
         "court": "District East",
@@ -177,6 +156,13 @@
     },
     {
         "next_date": "2026-11-03",
+        "number": "Spl Cases 107/2024",
+        "title": "State V/S Zarwali Khan & Ors",
+        "court": "CNS I",
+        "purpose": "for final arguments"
+    },
+    {
+        "next_date": "2026-11-03",
         "number": "Spl Cases 132/2022",
         "title": "STATE V/S Ayoub & Ors",
         "court": "Special CNS Courts (Clifton)",
@@ -186,7 +172,7 @@
         "next_date": "2026-11-03",
         "number": "Criminal Revision No. 25/2026",
         "title": "Syed Riaz Shah V/S The State",
-        "court": "District Malir",
+        "court": "District Malir ADJ II",
         "purpose": "for hearing"
     },
     {
@@ -332,6 +318,13 @@
     },
     {
         "next_date": "2026-11-11",
+        "number": "PPC 4060/2023",
+        "title": "Mst. Sumaya Tariq V/S Waqar Ali Shah",
+        "court": "JM VII South",
+        "purpose": "for Judgment."
+    },
+    {
+        "next_date": "2026-11-11",
         "number": "F. Ex. No. 02/2025",
         "title": "Mst. Muslima V/S Naimatullah & Ors",
         "court": "District West (City Court)",
@@ -385,6 +378,13 @@
         "title": "STATE V/S SHARIF @ MOTA",
         "court": "District West (City Court)",
         "purpose": "for evidence"
+    },
+    {
+        "next_date": "2026-11-13",
+        "number": "Special Cases 92/2025",
+        "title": "State / ANF V/S Sanaullah & Ors",
+        "court": "Special CNS Courts (Clifton)",
+        "purpose": "Active"
     },
     {
         "next_date": "2026-11-16",
